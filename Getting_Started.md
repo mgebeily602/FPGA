@@ -293,3 +293,5 @@ Your browser does not support videos.
 5. Create bitstream file (Run `Place & Rout`).
 6. Run `Programmer`
 7. Run `Program/Configure`
+
+This article follows closely [LUSHY LABS Article](https://learn.lushaylabs.com/getting-setup-with-the-tang-nano-9k/).
