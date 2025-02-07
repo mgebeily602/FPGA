@@ -3,7 +3,7 @@
  This turorial has two objectives:
 
  1. Present an overview of FPGAs.
- 2. Explain how to use the open source Gowin IDE to develop it.
+ 2. Explain how to use the open source Gowin IDE to program it it.
 
  We will be using a simple 6-bit counter example to illustrate the discussion. We start with an overview of FPGAs.
 
